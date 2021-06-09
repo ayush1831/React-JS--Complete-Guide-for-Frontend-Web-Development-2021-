@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: #def3fd;
+}
+#navbar{
+   background-color:  #779ecb;;
+    padding: 24px;;
+}
+.nav-heading{
+font-size: 24px;
+padding: 8px;
+font-weight: 600;
+}
+#list-heading{
+    padding-left: 20px;;
+}
+.food-list{
+    font-size: 20px;
+}
+#biryani,#burger,#dosa,#pavbhaji,#pizza{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+.food-item{
+    text-align: center;
+}
