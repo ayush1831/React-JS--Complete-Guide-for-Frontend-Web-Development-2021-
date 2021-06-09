@@ -1,0 +1,43 @@
+body{
+    background-color: #f2f6ff;
+    margin: 0;
+    padding: 16px;;
+}
+#icon-container{
+    background-color:  #f2f6ff;
+}
+.social-icon{
+    height:50px;
+    width:50px;
+    padding:16px 32px;
+}
+form{
+border: 1px solid #ccc;
+width:700px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+background-color: white;
+}
+#form-heading{
+    font-size: 32px;
+    padding-top: 56px;
+    padding-bottom: 32px;
+}
+#input-container{
+    padding: 80px 80px 40px 80px;
+}
+.input-box{
+  font-size: 18px;
+  padding: 12px;
+  border:0 0 1px solid #ccc 0;
+  margin-bottom: 36px;;
+  width:100%;
+}
+#submit{
+    background-color: #0056ff;
+    padding: 12px 24px;
+    font-size: 18px;
+    color: white;
+    border: 0;
+}
